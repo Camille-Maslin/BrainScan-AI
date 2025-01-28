@@ -1,8 +1,14 @@
-# Ignore all files in the training/data folder
-training/data/*
+# Ignore all files in the Training folder
+Training/*
 
-# Ignore all files in the testing_images folder
-testing_images/*
+# Ignore all files in the Testing folder
+Testing/*
+
+# Ignore all files in the logs folder
+logs/*
+
+# Ignore the best_model.keras file
+best_model.keras
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
